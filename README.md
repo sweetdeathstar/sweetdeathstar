@@ -47,7 +47,7 @@
             <details>
               <summary>$\color{#CBECB6}{\texttt{DNI}}$</summary>
             $\color{#8A78B6}{\texttt{ Trumpsupporters,phedophille,
-              sexist, homophobies. just dont be mean etc}}$
+sexist, homophobies. just dont be mean etc}}$
             </details>
           </p>
         </td>
