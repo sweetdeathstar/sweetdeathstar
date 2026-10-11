@@ -91,8 +91,5 @@
 <br>
 <br>
 <br>
-  <pfp>
-<img alt="Untitled76_20261005120143" src="https://github.com/user-attachments/assets/4ece3cbd-9e79-4625-863b-d8cf34425b36" />
-  </pfp>
 <br>
 </div>
