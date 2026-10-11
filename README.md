@@ -62,8 +62,16 @@
                     <p align="center">
                     $\color{#8A78B6}{\texttt{ Thank you so much! }}$
                     </p>
+                    <br>
+                    <p align="center">
+                      $\color{#8A78B6}{\texttt{ ╰┈➤ }}$
+                    <a href="https://github.com/charactersofpt">@charactersofpt</a>
+                      $\color{#8A78B6}{\texttt{ ˚. ᵎᵎ }}$
                       <br>
-                    ((awards/acc/mentions/idk (ask me for help on this)))
+                      $\color{#8A78B6}{\texttt{ ╰┈➤ }}$
+                    <a href="https://github.com/entitlement-town">@entitlement-town</a>
+                      $\color{#8A78B6}{\texttt{ ˚. ᵎᵎ }}$
+                    </p>
                   </td>
                 </tr>
               </table>
