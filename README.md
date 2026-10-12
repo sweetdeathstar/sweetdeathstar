@@ -46,7 +46,7 @@
             </details>
             <details>
               <summary>$\color{#CBECB6}{\texttt{DNI}}$</summary>
-            $\color{#8A78B6}{\texttt{Trumpsupporters,phedophille,sexist, homophobies,just dont be mean etc}}$
+            $\color{#8A78B6}{\texttt{Trump supporters, pedophiles , sexists , homophobies , just dont be mean etc}}$
             </details>
           </p>
         </td>
@@ -60,13 +60,17 @@
                 <tr>
                   <td>
                     <p align="center">
-                    $\color{#8A78B6}{\texttt{ Thank you so much! }}$
+                    $\color{#CBECB6}{\texttt{ Thank you so much! }}$
                     </p>
                     <br>
                     <p align="center">
                       $\color{#8A78B6}{\texttt{ ╰┈➤ }}$
                     <a href="https://github.com/charactersofpt">@charactersofpt</a>
                       $\color{#8A78B6}{\texttt{ ˚. ᵎᵎ }}$
+                      <br>
+                      $\color{#CBECB6}{\texttt{ ╰┈➤ }}$
+                    <a href="https://github.com/paw-town">@paw-town</a>
+                      $\color{#CBECB6}{\texttt{ ˚. ᵎᵎ }}$
                       <br>
                       $\color{#8A78B6}{\texttt{ ╰┈➤ }}$
                     <a href="https://github.com/entitlement-town">@entitlement-town</a>
